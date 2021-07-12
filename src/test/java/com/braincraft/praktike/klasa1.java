@@ -4,7 +4,7 @@ package com.braincraft.praktike;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-public class klasa1 {
+public class Klasa1 {
     public static void main(String[] args) {
 
        Studenti dardani = new Studenti(2,"Dardan", "Gjoka", "Drenas", 12,true);
